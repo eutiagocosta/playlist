@@ -1,5 +1,7 @@
 # Playlist songs 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e2a54a086f6148fba3164eef0bed8311)](https://app.codacy.com/app/eutiagocosta/playlist?utm_source=github.com&utm_medium=referral&utm_content=eutiagocosta/playlist&utm_campaign=Badge_Grade_Settings)
+
   - Spotify playlist based on your location's temperature
 
 ### Installation
